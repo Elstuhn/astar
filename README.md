@@ -6,3 +6,4 @@ Totally not me studying and implementing the astar algorithm in under 2 hours to
 2. Use the astar function: astar(map_, numMap, start, end)
   - Where map_ is a 2d array of nodes and numMap is a 2d array of numbers 0 and 1 where 1 is an unwalkable path
   - start and end are both tuples, stating the position of the start and end points
+H~2~O
