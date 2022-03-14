@@ -3,7 +3,8 @@ Totally not me studying and implementing the astar algorithm in under 2 hours to
 
 # How To Use:
 1. Just fork func.py and import it into your project as seen in main.py
-2. Use the astar function: astar(map_, numMap, start, end) which returns the shortest path to end
+2. Use the astar function: astar(map_, numMap, start, end) 
+3. The function returns a 2d array showing the shortest path from start to end (test for yourself to see im too lazy to show it here)
 
 
 - map_ is a 2d array of nodes and numMap is a 2d array of numbers 0 and 1 where 1 is an unwalkable path
